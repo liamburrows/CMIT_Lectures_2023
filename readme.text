@@ -1,2 +1,12 @@
 Please download the segmentation files for lecture 2 here:
 https://drive.google.com/file/d/1IZ_1ZcJUAzZyjDHpuN2KUkcfJ23lhTl9/view?usp=sharing
+
+
+Package requirements for these lectures:
+
+pytorch
+torchvision
+matplotlib
+Pillow
+scikit-image
+numpy
